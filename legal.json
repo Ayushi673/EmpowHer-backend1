@@ -1,0 +1,19 @@
+[
+{ 
+"name":"WomensLaw.org",
+"desc":"State-by-state information about laws including protective and restraining orders and child custody laws."
+},
+{ 
+"name": "Legal Services Corporation",
+"desc": "An independent nonprofit established by Congress in 1974 to provide financial support for civil legal aid to low-income Americans. The Corporation currently provides funding to 134 independent nonprofit legal aid organizations in every state, the District of Columbia, and U.S. Territories."
+},
+
+{ 
+"name": "VINE",
+"desc": "Allows crime victims to obtain timely and reliable information about criminal cases and the custody status of offenders 24 hours a day. Victims and other concerned citizens can also register to be notified by phone, email or TTY device."
+},
+{ 
+"name": "National Clearinghouse for the Defense of Battered Women",
+"desc": "Assists battered women charged with crimes and members of their defense teams such as defense attorneys, advocates, expert witnesses."
+}
+]
